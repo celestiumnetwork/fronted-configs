@@ -1,0 +1,53 @@
+[{
+    "title": "Apps",
+    "links": [{
+            "text": "Swap & Exchange",
+            "url": "https://swap.celestium.network"
+        },
+        {
+            "text": "Generate Token",
+            "url": "https://dapps.celestium.network"
+        }
+    ]
+},
+{
+    "title": "Documentation & Dev",
+    "links": [{
+            "text": "Documentation",
+            "url": "https://docs.celestium.network/"
+        },
+        {
+            "text": "Github",
+            "url": "https://github.com/celestiumnetwork"
+        }
+    ]
+},
+{
+    "title": "Road Data",
+    "links": [{
+            "text": "Home",
+            "url": "https://celestium.network"
+        },
+        {
+            "text": "Whitepaper",
+            "url": "https://celestium.network/whitepaper-celestium.pdf"
+        }
+    ]
+},
+{
+    "title": "Social Media",
+    "links": [{
+            "text": "X",
+            "url": "https://x.com/CelestiumL1"
+        },
+        {
+            "text": "Telegram",
+            "url": "https://t.me/CelestiumL1"
+        },
+        {
+            "text": "Medium",
+            "url": "https://medium.com/@celestiumnetwork"
+        }
+    ]
+}
+]

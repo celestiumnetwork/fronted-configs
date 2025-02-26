@@ -1,0 +1,15 @@
+[{
+    "title": "Celestium Testnet",
+    "url": "https://testnet.celestium.network",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg",
+    "isActive": true
+},
+{
+    "title": "Celestium Mainnet",
+    "url": "https://mainnet.celestium.network",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-one-icon-light.svg",
+    "isActive": false
+}
+]
