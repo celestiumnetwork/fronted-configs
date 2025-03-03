@@ -1,11 +1,15 @@
 [{
     "title": "Apps",
     "links": [{
-            "text": "Swap & Exchange",
+            "text": "Dex (Mainnet)",
             "url": "https://swap.celestium.network"
         },
         {
-            "text": "Generate Token",
+            "text": "Dex (Testnet)",
+            "url": "https://testnetdex.celestium.network"
+        },
+        {
+            "text": "DAPPS",
             "url": "https://dapps.celestium.network"
         }
     ]
